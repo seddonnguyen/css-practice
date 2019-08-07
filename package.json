@@ -1,0 +1,23 @@
+{
+    "name": "css-practice",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/seddonnguyen/css-practice.git"
+    },
+    "keywords": [],
+    "author": "Jeremiah Tabb",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/seddonnguyen/css-practice/issues"
+    },
+    "homepage": "https://github.com/seddonnguyen/css-practice#readme",
+    "dependencies": {
+        "lite-server": "^2.5.3"
+    }
+}
